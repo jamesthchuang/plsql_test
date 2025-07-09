@@ -1,0 +1,5 @@
+CREATE OR REPLACE PROCEDURE hello_world AS
+BEGIN
+  DBMS_OUTPUT.PUT_LINE('Hello, world!');
+END;
+/
